@@ -10,8 +10,14 @@
         <mxCell id="uqb0CnMUBqBZImKO6he--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uqb0CnMUBqBZImKO6he--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uqb0CnMUBqBZImKO6he--2" target="uqb0CnMUBqBZImKO6he--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uqb0CnMUBqBZImKO6he--2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uqb0CnMUBqBZImKO6he--4" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
